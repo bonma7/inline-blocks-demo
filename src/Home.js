@@ -36,6 +36,4 @@ const HOME_BLOCKS = {
   images: imagesBlock,
   paragraph: paragraphBlock,
   features: featureListBlock,
-  hero: heroBlock,
-  images: imagesBlock,
 };
